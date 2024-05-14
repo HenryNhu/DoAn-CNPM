@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fchangeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fchangeroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\froomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\froomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fuseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fuseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\fbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\fbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddstafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddstafftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddcustomerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\faddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\faddcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|c:\\users\\nhuqu\\iclouddrive\\giao_trinh_daihoc\\hk2_2024\\cnpm\\doan\\lan2\\code\\doan_cnpm_new\\hotelmanager\\dao\\accessdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\dao\\accessdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\hotelmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81E9E23-CDF5-4BBE-B58C-19091DEAA9BE}|HotelManager\\HotelManager.csproj|solutionrelative:hotelmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fManagement.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fManagement.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fManagement.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:47.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fLogin.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fLogin.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fLogin.cs",
+              "RelativeToolTip": "HotelManager\\fLogin.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManager\\Program.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\Program.cs",
+              "RelativeToolTip": "HotelManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAbout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAbout.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAbout.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAbout.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAbout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:13.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fCustomer.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fCustomer.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fCustomer.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:09.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fChangeRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fChangeRoom.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fChangeRoom.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fChangeRoom.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fChangeRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:07.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fAccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAccess.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAccess.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAccess.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:25:43.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fLogin.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fLogin.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fLogin.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:07:44.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fRoomType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fRoomType.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fRoomType.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fRoomType.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fRoomType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:06.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fService.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fService.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fService.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:04.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fServiceType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fServiceType.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fServiceType.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fServiceType.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fServiceType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:02.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fStaff.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fStaff.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fStaff.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:01.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fUseService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fUseService.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fUseService.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fUseService.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fUseService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:59.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fParameter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fParameter.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fParameter.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fParameter.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fParameter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:56.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fBill.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fBill.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fBill.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:55.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fAddStaffType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddStaffType.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddStaffType.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddStaffType.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddStaffType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:53.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fAddServiceType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddServiceType.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddServiceType.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddServiceType.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddServiceType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:52.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fAddService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddService.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddService.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddService.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:52.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fAddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddRoom.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddRoom.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddRoom.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:51.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fAddCustomerInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddCustomerInfo.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddCustomerInfo.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddCustomerInfo.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddCustomerInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:49.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fAddCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddCustomer.cs",
+              "RelativeDocumentMoniker": "HotelManager\\fAddCustomer.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\fAddCustomer.cs [Design]",
+              "RelativeToolTip": "HotelManager\\fAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:48.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\DAO\\AccessDAO.cs",
+              "RelativeDocumentMoniker": "HotelManager\\DAO\\AccessDAO.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\DAO\\AccessDAO.cs",
+              "RelativeToolTip": "HotelManager\\DAO\\AccessDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:25:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "HotelManager\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\nhuqu\\iCloudDrive\\GIAO_TRINH_DAIHOC\\HK2_2024\\CNPM\\DoAn\\Lan2\\Code\\DoAn_CNPM_NEW\\HotelManager\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "HotelManager\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:07:08.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
